@@ -1,0 +1,25 @@
+# Unreal Engine 5 specific
+Binaries/
+Intermediate/
+Saved/
+.vs/
+*.VC.db
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.uproject
+*.log
+
+# User-specific
+*.swp
+*.bak
+*.tmp
+*~
+*.psess
+*.psmdcp
+Thumbs.db
+.DS_Store
+.idea/
+*.db
