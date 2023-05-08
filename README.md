@@ -2,7 +2,7 @@
 
 UnrealGPT
 
-UnrealGPT is a part of my undergraduate thesis project aimed at combining Unreal Engine 5, Virtual Reality (VR), MetaHuman, OpenAI, and Azure TTS to create realistically interactable non-player characters (NPCs) through large language models (LLMs) and speech synthesis. Please note that a portion of the code is currently under academic proprietorship until October 2024.
+UnrealGPT was a part of my undergraduate thesis project aimed at combining Unreal Engine 5, Virtual Reality (VR), MetaHuman, OpenAI, and Azure TTS to create realistically interactable non-player characters (NPCs) through large language models (LLMs) and speech synthesis. Please note that a portion of the code is currently under academic proprietorship until October 2024.
 
 Project Overview
 
