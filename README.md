@@ -2,6 +2,8 @@
 
 UnrealGPT was part of my undergraduate thesis project aimed at combining Unreal Engine 5, Virtual Reality (VR), MetaHuman, OpenAI, and Azure TTS to create realistically interactable non-player characters (NPCs) through large language models (LLMs) and speech synthesis. Please note that a portion of the code is currently under academic proprietorship until October 2024.
 
+EDIT: A fully-developed demo of the application is now available here: https://github.com/oscaem/ARIS-Unreal-GPT
+
 https://user-images.githubusercontent.com/48035650/236871354-46ca219a-2ba9-46a2-9e55-85dbd88a3da3.mp4
 
 ## Project Overview
