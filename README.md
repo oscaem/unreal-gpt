@@ -41,6 +41,6 @@ If you have any questions or require support related to UnrealGPT, please don't 
 For any inquiries or further information about UnrealGPT, please contact:
 
 - Oscar
-- zusagen.abhilfe07@icloud.com
+- zusagen07_abhilfe@icloud.com
 
 Thank you for your interest in UnrealGPT!
